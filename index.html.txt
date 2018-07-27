@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+      <head>
+<meta charset="utf-8">
+tittle>Resume Building</title>
+      </head>
+<body>
+<h1>Resume</h1>
+<p>MIC</p>
+</body>
+</html>
