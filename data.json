@@ -1,0 +1,42 @@
+{
+	"details":{
+	   "name":"vinni",
+	   "image":"images.jpg",
+	   "phone":"9876543210",
+	   "email":"vineethareddy0905@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college",
+			"per":"80%"
+		},
+		{
+			"course":"Intermediate(MPC)",
+			"college":"Narayana Junior College",
+			"per":"91%"
+		},
+		{
+			"course":"SSC",
+			"school":"Ravindhra Bharathi",
+			"per":"92%"
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"output":[
+				"C","C++","Python","java"
+			]
+		},
+		{
+			"title":"Operating Systems",
+			"output":[
+				"Windows","Linux","MAC"
+			]
+		}
+	],
+	"carrer":{
+		"text":"To associate with organisation and utilaze the technical skills"
+	}
+}
