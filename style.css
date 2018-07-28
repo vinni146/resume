@@ -1,13 +1,28 @@
 .main{
 	width:100%;
-	background-color:blue;
+	background-color:bl ue;
 	display:flex;
+	justify-content: center;
+	text-align: center;
 }
 .left{
-	width: 30%;
-	border:3px solid black;
+	width: 68%;
+	border:3px solid red;
+	box-shadow:3px 3px 3px white;
+	margin: 1%;
+	padding: 1%;
 }
 .right{
-	width: 70%;
+	width: 28%;
 	border:3px solid black;
+}
+img{
+	width: 300px;
+	border:3px solid black;
+	
+}
+h1,
+h2,
+h3{
+	font-size: 33px;
 }
